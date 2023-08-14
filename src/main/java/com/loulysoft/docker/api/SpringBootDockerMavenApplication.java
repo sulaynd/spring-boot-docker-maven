@@ -10,4 +10,5 @@ public class SpringBootDockerMavenApplication {
 		SpringApplication.run(SpringBootDockerMavenApplication.class, args);
 	}
 
+
 }
